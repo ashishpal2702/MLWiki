@@ -1,6 +1,6 @@
-# MLOPS
+# ML packages and tools
 
-A curated list of MLOPS tools and packages
+A curated list of Data science and ML tools and packages
 
 
 - [MLOps tools]()
